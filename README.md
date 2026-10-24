@@ -19,7 +19,7 @@ The system first appears in the 1981 Sears Christmas Book. It is listed on print
 
 Build target: <https://ebay.io/m/9a6etL>
 
-# HP 1600A/1607A with a 10-bit CP1610 System
+## HP 1600A/1607A with a 10-bit CP1610 System
 
 The CP1610 has a **16-bit address bus** and a **10-bit data bus**. Each address selects a 10-bit word, so its 16-bit address space contains up to **65,536 word addresses**. Some addresses may be assigned to system hardware or I/O rather than RAM or ROM.
 
